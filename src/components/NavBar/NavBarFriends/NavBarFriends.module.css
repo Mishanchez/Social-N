@@ -1,0 +1,23 @@
+.navfriends{
+
+ padding-top: 150px;
+
+
+
+}
+
+
+.item {
+ padding: 3px;
+  width: 30%;
+  display:inline-block;
+  color:  whitesmoke;
+}
+
+
+.item img{
+border: 1px solid black;
+    width: 60px;
+    height: 60px;
+    border-radius: 40px;
+}

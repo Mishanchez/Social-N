@@ -1,0 +1,22 @@
+.allPage{
+display: grid;
+grid-template-areas:
+"h h"
+"n c";
+
+grid-template-rows: 60px 1fr;
+grid-template-columns: 2fr 10fr;
+grid-gap: 5px;
+
+width: 90%;
+margin: 0 auto;
+}
+
+.allPageCont{
+
+        grid-area: c;
+        background-color: 	rgb(81, 100, 161);
+}
+
+
+

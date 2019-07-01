@@ -1,0 +1,43 @@
+.dialogs{
+display: grid ;
+grid-template-columns: 2fr 10fr;
+grid-gap: 5px;
+padding: 20px;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+.dialog a{
+text-decoration: none;
+font-size: 17px;
+color:whitesmoke;
+}
+
+.dialog .activelink{
+color:greenyellow;
+font-size:20px;
+font-weight: 600;
+}
+
+.dialog img{
+    width: 70px;
+    height: 70px;
+    border-radius: 40px;
+
+}
+
+.dialog{
+margin: 10px;
+}
+
+.messages{
+    border-left: 1px solid whitesmoke;
+    padding: 10px;
+    color:white;
+}
+
+.sendmessage{
+text-align: right;
+padding-bottom: 0%;
+
+
+}

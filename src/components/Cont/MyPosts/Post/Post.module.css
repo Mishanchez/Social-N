@@ -1,0 +1,23 @@
+.item{
+  font-weight: bolder;
+  background-color:#378cad;
+  padding: 10px;
+  border: 1px solid #1565C0   ;
+ margin: 5px;
+border-radius: 1em;
+color: whitesmoke;
+font-family:  sans-serif, Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
+.item img{
+    width: 70px;
+    height: 70px;
+    border-radius: 40px;
+    box-shadow: 0 0 5px 
+
+}
+.like{
+  color: #d1d1f8;
+}
