@@ -19,7 +19,7 @@ const App = (props) => {
 
                 <HeaderContainer />
                 <NavBarContainer navBarFriendsData = {props.state.navBarPage.navBarFriendsData}  />
-
+                
                 <div className='allPageCont'>
  
                     <Route path="/Profile/:userId?" render={() => <ProfileContainer />} />
